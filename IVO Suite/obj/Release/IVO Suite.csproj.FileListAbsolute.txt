@@ -1,0 +1,79 @@
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO Suite.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO Suite.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Properties.Resources.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO Suite.csproj.GenerateResource.Cache
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO Suite.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO Suite.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.MainSuite.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.GruposEmbalagem.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO Suite.exe.licenses
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.AddArtigo.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.Addgrupo.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.Encomendas.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.DetalheEncomenda.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.AddItemPE.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO HelpDesk.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO HelpDesk.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO Stock.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO Stock.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO EE.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO EE.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO Suite.exe.manifest
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Release\IVO Suite.application
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO Suite.exe.manifest
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Release\IVO Suite.application
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Suite.exe.config
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO Suite.exe
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO Suite.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Suite.exe.manifest
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Suite.application
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Suite.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Suite.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\adodb.dll
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO EE.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO HelpDesk.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Stock.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\office.dll
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO EE.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO HelpDesk.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\IVO Stock.pdb
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\ResolveAssemblyReference.cache
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.AddArtigo.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.Addgrupo.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.GruposEmbalagem.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.Historico.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.AddItemPE.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.AddPackingList.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.DetalheEncomenda.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.Encomendas.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Encomendas.PackingLists.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.HelpDesk.AddComponente.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.HelpDesk.Equipamentos.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.HelpDesk.ListEquip.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.HelpDesk.Staff.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.HelpDesk.StaffAdd.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.AddMarcaCor.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.AddRefCli.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.CodPC.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.LinhasComerciais.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.MarcasCores.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.RefCli.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.MainSuite.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.Properties.Resources.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO_Suite.rptPrintPreviewForm.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\GenerateResource-ResGen.read.9.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO Suite.exe.licenses
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO Suite.exe.manifest
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\IVO Suite.application
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\GenerateResource-ResGen.read.6.tlog
+D:\Projectos\IVO Suite\IVO Suite\bin\Release\office.xml
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\RdlCompile.cache
+D:\Projectos\IVO Suite\IVO Suite\obj\Release\RdlCompile.compiled

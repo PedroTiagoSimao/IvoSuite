@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\svr\Partilha\Builds\IvoSuite\|S:\Builds\IvoSuite\|S:\Builds\|\\storage\public\Builds\IVOSuite\|\\storage\public\Builds\</PublishUrlHistory>
+    <InstallUrlHistory>\\svr\Partilha\Builds\IvoSuite\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>\\storage\public\Builds\|\\Storage\Partilha\Produção\Informatica\Projectos\IVO Suite\|\\storage\partilha\Produção\Informatica\Projectos\IVO Suite\</UpdateUrlHistory>
+    <BootstrapperUrlHistory>\\storage\partilha\Produção\Informatica\Projectos\IVO Suite</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ReferencePath>C:\Programas\Business Objects\Common\2.8\managed\</ReferencePath>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartWorkingDirectory>\\Storage\partilha\Produção\Informatica\Projectos\IVO Suite\CurrentRelease\</StartWorkingDirectory>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BEAAFAC5-4056-4B21-A66A-D6546007FE3A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IVO_Suite</RootNamespace>
+    <AssemblyName>IVO Suite</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>C9A4E57DA8B6A81EB2466BF83FFDC577FCE84E2D</ManifestCertificateThumbprint>
+    <ManifestKeyFile>IVO Suite_1_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>Smart-Folder.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <SignAssembly>false</SignAssembly>
+    <PublishUrl>\\storage\partilha\Produção\Informatica\Projectos\IVO Suite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\Storage\Partilha\Produção\Informatica\Projectos\IVO Suite\</UpdateUrl>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.2.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsUrl>\\storage\partilha\Produção\Informatica\Projectos\IVO Suite</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="office, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\IVO HelpDesk\IVO HelpDesk\bin\Debug\office.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="Embalagem\AddArtigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\AddArtigo.Designer.cs">
+      <DependentUpon>AddArtigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\Addgrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\Addgrupo.Designer.cs">
+      <DependentUpon>Addgrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\CompGruposEmbalagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\CompGruposEmbalagem.Designer.cs">
+      <DependentUpon>CompGruposEmbalagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\GruposEmbalagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\GruposEmbalagem.Designer.cs">
+      <DependentUpon>GruposEmbalagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\Historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\Historico.Designer.cs">
+      <DependentUpon>Historico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\Necessidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\Necessidades.Designer.cs">
+      <DependentUpon>Necessidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\NecessidadesDetalhe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\NecessidadesDetalhe.Designer.cs">
+      <DependentUpon>NecessidadesDetalhe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\PlanearEmbalamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\PlanearEmbalamento.Designer.cs">
+      <DependentUpon>PlanearEmbalamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Embalagem\PlanosEmbalamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Embalagem\PlanosEmbalamento.Designer.cs">
+      <DependentUpon>PlanosEmbalamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encomendas\AddItemPE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encomendas\AddItemPE.Designer.cs">
+      <DependentUpon>AddItemPE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encomendas\AddPackingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encomendas\AddPackingList.Designer.cs">
+      <DependentUpon>AddPackingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encomendas\DetalheEncomenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encomendas\DetalheEncomenda.Designer.cs">
+      <DependentUpon>DetalheEncomenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encomendas\Encomendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encomendas\Encomendas.Designer.cs">
+      <DependentUpon>Encomendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encomendas\PackingLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encomendas\PackingLists.Designer.cs">
+      <DependentUpon>PackingLists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDesk\AddComponente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpDesk\AddComponente.Designer.cs">
+      <DependentUpon>AddComponente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDesk\Equipamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpDesk\Equipamentos.Designer.cs">
+      <DependentUpon>Equipamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDesk\ListEquip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpDesk\ListEquip.Designer.cs">
+      <DependentUpon>ListEquip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDesk\Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpDesk\Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDesk\StaffAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpDesk\StaffAdd.Designer.cs">
+      <DependentUpon>StaffAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IVO.cs" />
+    <Compile Include="MainSuite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainSuite.Designer.cs">
+      <DependentUpon>MainSuite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\AddMarcaCor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\AddMarcaCor.Designer.cs">
+      <DependentUpon>AddMarcaCor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\AddRefCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\AddRefCli.Designer.cs">
+      <DependentUpon>AddRefCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\CodPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\CodPC.Designer.cs">
+      <DependentUpon>CodPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\MarcasCores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\MarcasCores.Designer.cs">
+      <DependentUpon>MarcasCores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\LinhasComerciais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\LinhasComerciais.Designer.cs">
+      <DependentUpon>LinhasComerciais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\RefCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\RefCli.Designer.cs">
+      <DependentUpon>RefCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Primavera\UpdateDescricaoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Primavera\UpdateDescricaoCliente.Designer.cs">
+      <DependentUpon>UpdateDescricaoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Embalagem\AddArtigo.resx">
+      <DependentUpon>AddArtigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\Addgrupo.resx">
+      <DependentUpon>Addgrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\CompGruposEmbalagem.resx">
+      <DependentUpon>CompGruposEmbalagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\GruposEmbalagem.resx">
+      <DependentUpon>GruposEmbalagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\Historico.resx">
+      <DependentUpon>Historico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\Necessidades.resx">
+      <DependentUpon>Necessidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\NecessidadesDetalhe.resx">
+      <DependentUpon>NecessidadesDetalhe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\PlanearEmbalamento.resx">
+      <DependentUpon>PlanearEmbalamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Embalagem\PlanosEmbalamento.resx">
+      <DependentUpon>PlanosEmbalamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encomendas\AddItemPE.resx">
+      <DependentUpon>AddItemPE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encomendas\AddPackingList.resx">
+      <DependentUpon>AddPackingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encomendas\DetalheEncomenda.resx">
+      <DependentUpon>DetalheEncomenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encomendas\Encomendas.resx">
+      <DependentUpon>Encomendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encomendas\PackingLists.resx">
+      <DependentUpon>PackingLists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpDesk\AddComponente.resx">
+      <DependentUpon>AddComponente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpDesk\Equipamentos.resx">
+      <DependentUpon>Equipamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpDesk\ListEquip.resx">
+      <DependentUpon>ListEquip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpDesk\Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpDesk\StaffAdd.resx">
+      <DependentUpon>StaffAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\AddMarcaCor.resx">
+      <DependentUpon>AddMarcaCor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\AddRefCli.resx">
+      <DependentUpon>AddRefCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\CodPC.resx">
+      <DependentUpon>CodPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\LinhasComerciais.resx">
+      <DependentUpon>LinhasComerciais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\MarcasCores.resx">
+      <DependentUpon>MarcasCores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\RefCli.resx">
+      <DependentUpon>RefCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Primavera\UpdateDescricaoCliente.resx">
+      <DependentUpon>UpdateDescricaoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="MainSuite.resx">
+      <DependentUpon>MainSuite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="rptPrintPreviewForm.resx">
+      <DependentUpon>rptPrintPreviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="IVO Suite_1_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptPrintPreviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptPrintPreviewForm.Designer.cs">
+      <DependentUpon>rptPrintPreviewForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IVO Suite_TemporaryKey.pfx" />
+    <None Include="Resources\Open_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\IVO EE\IVO EE\IVO EE.csproj">
+      <Project>{C35B99B3-2496-4164-A54B-FC1ED910C16E}</Project>
+      <Name>IVO EE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\IVO HelpDesk\IVO HelpDesk\IVO HelpDesk.csproj">
+      <Project>{89721B6A-4561-4A65-AF96-7553DBD23133}</Project>
+      <Name>IVO HelpDesk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\IVO Stock\IVO Stock\IVO Stock.csproj">
+      <Project>{7204C26C-A459-4DF2-B489-BF1A2CE4F669}</Project>
+      <Name>IVO Stock</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.8.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Studio 2008 Report Viewer</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.10.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 10.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <SplashScreen Include="Resources\bg.wmf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </SplashScreen>
+    <None Include="app.config" />
+    <None Include="Resources\Remove_48x48.png" />
+    <None Include="Resources\Remove_32x32.png" />
+    <None Include="Resources\Print_32x32.png" />
+    <None Include="Resources\Check_16x16.png" />
+    <None Include="Resources\Rename_16x16.png" />
+    <None Include="Resources\Save_32x32.png" />
+    <None Include="Resources\Search_16x16.png" />
+    <None Include="Resources\Add_32x321.png" />
+    <None Include="Resources\Check_32x32.png" />
+    <None Include="Resources\Check_24x24.png" />
+    <None Include="Resources\Remove_24x24.png" />
+    <None Include="Resources\Cancel_24x24.png" />
+    <None Include="Resources\Print_24x24.png" />
+    <None Include="Resources\Cancel_16x16.png" />
+    <None Include="Resources\Print_16x16.png" />
+    <None Include="Resources\Folder_32x32.png" />
+    <None Include="Resources\Folder_24x24.png" />
+    <None Include="Resources\Folder_16x16.png" />
+    <None Include="Resources\New_16x16.png" />
+    <None Include="Resources\Copy v2_16x16.png" />
+    <None Include="Resources\Refresh_16x16.png" />
+    <None Include="Resources\Calendar_16x16.png" />
+    <None Include="Resources\Play_16x16.png" />
+    <None Include="Resources\Settings_16x16.png" />
+    <None Include="Resources\Paste_16x16.png" />
+    <None Include="Resources\Upload_16x16.png" />
+    <None Include="Resources\New_16x161.png" />
+    <None Include="Resources\User_16x16.png" />
+    <None Include="Resources\Archive_16x16.png" />
+    <None Include="Resources\maximize.png" />
+    <None Include="Resources\minimize.png" />
+    <Content Include="Smart-Folder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.Office.Interop.Outlook">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="office">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reports\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,464 @@
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO Suite.csproj.GenerateResource.Cache
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Reports.PlanoEmbalagemPreview.resources
+C:\Documents and Settings\pedro.IVO\Ambiente de trabalho\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Reports.PlanoEmbalagemPreview.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Reports.PlanoEmb.resources
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.csproj.GenerateResource.Cache
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+S:\Produção\Informatica\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\adodb.dll
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.10.tlog
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.7.tlog
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.7.tlog
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\adodb.dll
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+E:\Projectos\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+E:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddRefCli.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.RefCli.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Staff.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.StaffAdd.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.AddComponente.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.9.tlog
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\office.dll
+D:\Projectos\IVO Suite\IVO Suite\bin\Debug\office.xml
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades.resources
+D:\Projectos\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheForn.resources
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\adodb.dll
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\office.dll
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheForn.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.AddComponente.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Staff.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.StaffAdd.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddRefCli.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.RefCli.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.9.tlog
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\office.xml
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheCli.resources
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+D:\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+D:\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+D:\IVO Suite\IVO Suite\bin\Debug\adodb.dll
+D:\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+D:\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+D:\IVO Suite\IVO Suite\bin\Debug\office.dll
+D:\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+D:\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+D:\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+D:\IVO Suite\IVO Suite\bin\Debug\office.xml
+D:\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheCli.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheForn.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.AddComponente.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Staff.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.StaffAdd.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddRefCli.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.RefCli.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+D:\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+D:\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.9.tlog
+D:\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+D:\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+D:\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+D:\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+D:\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+E:\0. Dev\IVO Suite\IVO Suite\obj\Debug\GenerateResource.read.3.tlog
+E:\0. Dev\IVO Suite\IVO Suite\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\adodb.dll
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\office.dll
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\office.xml
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheCli.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheForn.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.AddComponente.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Staff.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.StaffAdd.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddRefCli.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.RefCli.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.4.tlog
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.6.tlog
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.9.tlog
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource.read.3.tlog
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+J:\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.config
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe.manifest
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.application
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.exe
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Suite.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\adodb.dll
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO EE.exe
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.exe
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Stock.exe
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\office.dll
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO EE.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO Stock.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\IVO HelpDesk.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\office.xml
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheCli.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheForn.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.AddComponente.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Staff.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.StaffAdd.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddRefCli.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.RefCli.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.9.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.6.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource.read.3.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.read.4.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\RdlCompile.cache
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\RdlCompile.compiled
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO Suite.application
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+C:\Documents and Settings\Administrador\Ambiente de trabalho\Debug\IVO Suite.exe.config
+C:\Documents and Settings\Administrador\Ambiente de trabalho\Debug\IVO Suite.exe.manifest
+C:\Documents and Settings\Administrador\Ambiente de trabalho\Debug\IVO Suite.application
+C:\Documents and Settings\Administrador\Ambiente de trabalho\Debug\IVO Suite.exe
+C:\Documents and Settings\Administrador\Ambiente de trabalho\Debug\IVO Suite.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PesquisaGrupoEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Lembretes.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\GenerateResource.read.479.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades2011.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO Suite.exe
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO Suite.pdb
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\ResolveAssemblyReference.cache
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.AddArtigo.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Addgrupo.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.CompGruposEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.GruposEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Lembretes.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Necessidades2011.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheCli.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.NecessidadesDetalheForn.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PesquisaGrupoEmbalagem.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanearEmbalamento.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PlanosEmbalamento.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddItemPE.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Encomendas.AddPackingList.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Encomendas.DetalheEncomenda.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Encomendas.Encomendas.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Encomendas.PackingLists.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.AddComponente.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Equipamentos.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.ListEquip.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.Staff.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.HelpDesk.StaffAdd.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddMarcaCor.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.AddRefCli.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.CodPC.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.LinhasComerciais.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.MarcasCores.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.RefCli.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Primavera.UpdateDescricaoCliente.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.MainSuite.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Properties.Resources.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.rptPrintPreviewForm.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource-ResGen.read.1.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource-ResGen.read.4.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource-ResGen.read.6.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource-ResGen.read.9.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource.read.3.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource.read.479.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\GenerateResource-ResGen.write.1.tlog
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO Suite.exe.licenses
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\RdlCompile.cache
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\RdlCompile.compiled
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO Suite.exe.manifest
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO Suite.application
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.Historico2011.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PrintEmbal.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PesquisaGrupo.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.ArtigosZero.resources
+S:\Produção\Informatica\Projectos\IVO SUITE Updated\IVO Suite 2\IVO Suite\obj\Debug\IVO_Suite.Embalagem.PesquisaFacas.resources
