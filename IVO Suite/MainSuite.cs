@@ -32,11 +32,11 @@ namespace IVO_Suite
             BackGroundImage("S:\\Produção\\Informatica\\bg101.png");
 
             cnnSql = "DSN=svr2_stcks";
-            strConnEnc = "DSN=Primavera;Uid=sa;pwd=sapassword";
-            //strConnEnc = "DSN=PriTeste;Uid=sa;pwd=sapassword";
-            strConnHD = "Data Source=SVR\\LP750;Initial Catalog=IVOHD;User Id=sa;Password=sapassword;";
-            strConnPri = "Data Source=SVR\\LP750;Initial Catalog=PRIEIC;User Id=sa;Password=sapassword;";
-            //strConnPri = "Data Source=SVR\\LP750;Initial Catalog=PRITESTE;User Id=sa;Password=sapassword;";
+            strConnEnc = "DSN=Primavera;Uid=sa;pwd=***";
+            //strConnEnc = "DSN=PriTeste;Uid=sa;pwd=***";
+            strConnHD = "Data Source=SVR\\LP750;Initial Catalog=IVOHD;User Id=sa;Password=***;";
+            strConnPri = "Data Source=SVR\\LP750;Initial Catalog=PRIEIC;User Id=sa;Password=***;";
+            //strConnPri = "Data Source=SVR\\LP750;Initial Catalog=PRITESTE;User Id=sa;Password=***;";
             cnn = new OdbcConnection("DSN=svr2_stcks");
 
             string fileV = "";
